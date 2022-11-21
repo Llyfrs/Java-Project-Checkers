@@ -3,5 +3,4 @@ module java1_2022_dre0060 {
 	  requires javafx.fxml;
 		opens checkers to javafx.fxml;
 		exports checkers;
-		
 }
