@@ -9,5 +9,8 @@
         <module name="java1_2022_dre0060" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Drawable" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
